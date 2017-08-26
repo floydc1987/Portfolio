@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'signpainter';
+    src: url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.eot');
+    src:  url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.eot?#iefix') format('embedded-opentype'),
+      url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.woff2') format('woff2'),
+         url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.woff') format('woff'),
+         url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.ttf') format('truetype'),
+         url('https://s3-us-west-2.amazonaws.com/celina-assets/signpainter-housescript-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Big Caslon';
+	src: url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.eot');
+	src: url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.woff2') format('woff2'),
+		url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.woff') format('woff'),
+		url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.ttf') format('truetype'),
+		url('https://s3-us-west-2.amazonaws.com/celina-assets/BigCaslon-Medium.svg#BigCaslon-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+body {
+  background-color: #F9F9F9 !important;
+}
+
+.header {
+  border: 1px solid black ;
+  height: 134px;
+  background-color: #898989;
+  text-shadow: #fff 0px 0px 1px;
+}
+.celina {
+  font-size: 85px;
+  font-family: signpainter;
+  color: white;
+  padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
+}
+.portfolio {
+  font-size: 60px;
+  font-family: "Big Caslon", sans-serif;
+  color: black;
+  padding-top: 41px;
+  border-left: 0;
+}
+.container {
+  padding: 35px 0 0;
+  background: #fff;
+  margin-top: 35px;
+  position: relative;
+}
+.portfolio-link, .contactMe {
+  margin-top: 50px;
+  padding-right: 0 !important;
+}
+.flower {
+  margin-top: 80px;
+}
+.circle {
+  width: 360px;
+  height: 360px;
+  border-radius: 180px;
+  background-color: #F9F9F9;
+  float: right;
+}
+.line {
+  position: absolute;
+  top: 0;
+  bottom: ;
+  width: 27%;
+  border-right: 3px solid black;
+  border-bottom: : 3px solid black;
+}
+.ladies {
+  font-size: 45px;
+  font-family: signpainter;
+  color: black;
+  padding-top: 50px;
+  border-right: 0;
+  margin-left: 35px;
+  text-shadow: white;
+  margin-top: 35px;
+}
+.Ada {
+  font-size: 30px;
+  color: black;
+}
