@@ -29,7 +29,7 @@ header {
 header h1 { 
     padding: 50px 0;
     color: #BBC085;
-    font-family: 'Lora';
+    /*font-family: 'Lora';*/
     font-size: 30px;
     font-weight: normal;
 }
@@ -162,6 +162,7 @@ header h2 span {
 #contact ul a {
  padding-left: 0;
 }
+
 
 
 
