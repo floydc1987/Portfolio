@@ -21,9 +21,15 @@
 	font-weight: 500;
 	font-style: normal;
 }
-
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
 body {
   background-color: #F9F9F9 !important;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .header {
@@ -31,6 +37,7 @@ body {
   height: 134px;
   background-color: #898989;
   text-shadow: #fff 0px 0px 1px;
+  margin-bottom: 25px;
 }
 .celina {
   font-size: 85px;
@@ -52,20 +59,28 @@ body {
   background: #fff;
   margin-top: 35px;
   position: relative;
+  flex: 1;
 }
 .portfolio-link, .contactMe {
-  margin-top: 50px;
+  margin-top: 60px;
   padding-right: 0 !important;
 }
 .flower {
   margin-top: 80px;
 }
 .circle {
-  width: 360px;
-  height: 360px;
-  border-radius: 180px;
+  width: 320px;
+  height: 320px;
+  border-radius: 160px;
   background-color: #F9F9F9;
-  float: right;
+  margin-right: 5px;
+  text-align: center;
+  line-height: 320px;
+  font-family: "Big Caslon", sans-serif;
+  cursor: pointer;
+  font-weight: bolder;
+  font-size: 16px;
+  margin-bottom: 55px;
 }
 .line {
   position: absolute;
@@ -88,4 +103,46 @@ body {
 .Ada {
   font-size: 30px;
   color: black;
+}
+.aboutMe {
+  font-size: 45px;
+  font-family: signpainter;
+  color: black;
+  padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
+}
+.me {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;;
+  color: black;
+  padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
+  margin-bottom: 20px;
+}
+footer {
+    height: 20px;
+    background-image: url(HPline.png);
+    background-size: 100% 100%;
+    margin-bottom: 5px;
+    width: 1170px;
+    margin: 0 auto;
+}
+.emailMe {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;;
+  color: black;
+  padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
+  margin-bottom: 20px;
+}
+.email {
+  font-size: 55px;
+  font-family: signpainter;
+  color: black;
+  padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
 }
