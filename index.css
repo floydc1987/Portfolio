@@ -143,7 +143,7 @@ footer {
   margin-bottom: 20px;
   margin-top: 40px;
 }
-.email {
+.email, .blog, .landingPg {
   font-size: 55px;
   font-family: signpainter;
   color: black;
@@ -161,5 +161,14 @@ footer {
   border-radius: 50%;
   color: black !important;
   text-decoration: none !important;
+}
+.blogImg, .landingPgWF img {
+  padding-top: 25px;
+  border-right: 0;
+  margin-left: 35px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  height: 300px;
+  width: 400px;
 }
 
