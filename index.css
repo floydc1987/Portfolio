@@ -48,6 +48,7 @@ body {
   right: 0;
   left: 0;
   z-index: 1000;
+  text-shadow: 2px 2px 4px #000000;
 }
 .portfolio {
   font-size: 60px;
@@ -56,6 +57,7 @@ body {
   padding-top: 41px;
   border-left: 0;
   padding-left: 47px !important;
+  text-shadow: 2px 2px 4px #000000;
 }
 .container {
   padding: 35px 0 0;
