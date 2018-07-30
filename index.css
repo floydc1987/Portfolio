@@ -73,17 +73,13 @@ body {
   font-size: 20px;
   font-family: "Big Caslon", sans-serif;
   color: black;
-  margin-top: 140px;
-  margin-left: 35px;
   border-style: double;
   border-color: white;
-  width: 300px;
-  height: 250px;
+  height: 300px;
   border-radius: 5px;
   text-align: center;
   line-height: 300px;
   margin-bottom: 55px;
-  position: relative;
   margin-left: 50px !important;
   margin-top: 10px;
 }
