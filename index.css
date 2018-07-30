@@ -154,7 +154,7 @@ footer {
   margin-bottom: 20px;
   margin-top: 40px;
 }
-.email, .socialMedia, .rainierFlyer, .lolCatClock, .lolCat{
+.email, .socialMedia, .rainierFlyer, .lolCat{
   font-size: 55px;
   font-family: signpainter;
   color: black;
@@ -164,7 +164,7 @@ footer {
   line-height: 42px;
   margin-top: 40px;
 }
-.ToDoListApp {
+.ToDoListApp, .lolCatClock {
   font-size: 55px;
   font-family: signpainter;
   color: black;
