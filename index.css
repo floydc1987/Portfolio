@@ -68,8 +68,6 @@ body {
 .portfolio-link, .contactMe {
   margin-top: 60px;
   padding-right: 0 !important;
-  border-style: double;
-  border: dashed white;
 }
 .profileText {
   font-size: 25px;
@@ -77,6 +75,7 @@ body {
   color: black;
   margin-top: 140px;
   margin-left: 35px;
+  border-style: white double;
 }
 .circle {
   width: 320px;
