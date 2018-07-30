@@ -154,11 +154,20 @@ footer {
   margin-bottom: 20px;
   margin-top: 40px;
 }
-.email, .blog, .ToDoFullSize, .socialMedia, .rainierFlyer {
+.email, .socialMedia, .rainierFlyer {
   font-size: 55px;
   font-family: signpainter;
   color: black;
   padding-top: 30px;
+  border-right: 0;
+  margin-left: 35px;
+  line-height: 42px;
+  margin-top: 40px;
+}
+.ToDoFullSize {
+  font-size: 55px;
+  font-family: signpainter;
+  color: black;
   border-right: 0;
   margin-left: 35px;
   line-height: 42px;
