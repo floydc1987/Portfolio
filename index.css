@@ -29,9 +29,7 @@ body {
 }
 
 .header {
-  border: 1px solid black ;
   height: 134px;
-  background-color: #898989;
   text-shadow: #fff 0px 0px 1px;
   margin-bottom: 25px;
 }
