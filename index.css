@@ -189,6 +189,9 @@ footer {
   width: 400px;
   cursor: zoom-in;
 }   
+.ToDoList img {
+  margin-left: 40px;
+}
 .rainierConsulting img {
   padding-top: 25px;
   margin-left: 35px;
