@@ -173,17 +173,16 @@ footer {
   color: black !important;
   text-decoration: none !important;
 }
-.blogImg, .ToDoFullSize img, .rainierConsulting img {
-  padding-top: 25px;
+.ToDoFullSize img, .rainierConsulting img {
   border-right: 0;
   margin-left: 35px;
   margin-bottom: 20px;
   margin-top: 40px;
   width: 400px;
-}
-.toDoFullSize img, .rainierConsulting img  {
-    cursor: zoom-in;
-}
+  cursor: zoom-in;
+}   
+.rainierConsulting img {
+  padding-top: 25px;
 .fa {
     padding: 20px;
     margin-top: 50px;
