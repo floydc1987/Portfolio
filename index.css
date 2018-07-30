@@ -76,13 +76,13 @@ body {
   margin-left: 20px;
 }
 .circle {
-  width: 292px;
-  height: 292px;
-  border-radius: 146px;
+  width: 320px;
+  height: 320px;
+  border-radius: 160px;
   background-color: #F9F9F9;
   margin-right: 5px;
   text-align: center;
-  line-height: 292px;
+  line-height: 320px;
   font-family: "Big Caslon", sans-serif;
   cursor: pointer;
   font-weight: bolder;
