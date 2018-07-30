@@ -175,7 +175,6 @@ footer {
 }
 .ToDoFullSize img, .rainierConsulting img {
   border-right: 0;
-  margin-left: 35px;
   margin-bottom: 20px;
   margin-top: 40px;
   width: 400px;
@@ -183,6 +182,7 @@ footer {
 }   
 .rainierConsulting img {
   padding-top: 25px;
+  margin-left: 35px;
 .fa {
     padding: 20px;
     margin-top: 50px;
