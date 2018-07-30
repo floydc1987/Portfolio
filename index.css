@@ -27,7 +27,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
-
 .header {
   height: 134px;
   text-shadow: #fff 0px 0px 1px;
