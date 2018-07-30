@@ -78,7 +78,7 @@ body {
 .circle {
   width: 320px;
   height: 320px;
-  border-radius: 160px;
+  border-radius: 16px;
   background-color: #F9F9F9;
   margin-right: 5px;
   text-align: center;
