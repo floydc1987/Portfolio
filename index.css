@@ -29,7 +29,7 @@ body {
 }
 .header {
   height: 134px;
-  text-shadow: #6d51b1 0px 0px 1px;
+  text-shadow: #6d51b1 1px 1px 3px;
   margin-bottom: 25px;
 }
 .celina {
