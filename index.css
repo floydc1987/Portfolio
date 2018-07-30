@@ -29,7 +29,7 @@ body {
 }
 .header {
   height: 134px;
-  text-shadow: #fff 0px 0px 1px;
+  text-shadow: #080808 0px 0px 1px;
   margin-bottom: 25px;
 }
 .celina {
@@ -40,7 +40,6 @@ body {
   border-right: 0;
   margin-left: 35px;
   position: relative;
-  text-shadow: 2px 2px 4px #000000;
 }
 .celina a {
   position: absolute;
@@ -49,7 +48,6 @@ body {
   right: 0;
   left: 0;
   z-index: 1000;
-  text-shadow: 2px 2px 4px #000000;
 }
 .portfolio {
   font-size: 60px;
@@ -58,7 +56,6 @@ body {
   padding-top: 41px;
   border-left: 0;
   padding-left: 47px !important;
-  text-shadow: 2px 2px 4px #000000;
 }
 .container {
   padding: 35px 0 0;
