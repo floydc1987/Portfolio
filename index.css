@@ -70,7 +70,7 @@ body {
   padding-right: 0 !important;
 }
 .profileText {
-  font-size: 20px;
+  font-size: 35px;
   font-family: "Big Caslon", sans-serif;
   color: black;
   border-style: double;
@@ -78,7 +78,7 @@ body {
   height: 320px;
   border-radius: 10px;
   text-align: center;
-  line-height: 300px;
+  line-height: 40px;
   margin-bottom: 55px;
   margin-left: 50px !important;
   margin-top: 71px;
