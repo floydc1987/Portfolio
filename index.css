@@ -68,7 +68,10 @@ body {
   margin-top: 60px;
   padding-right: 0 !important;
 }
-.profile {
+.profileText {
+  font-size: 25px;
+  font-family: "Big Caslon", sans-serif;
+  color: black;
   margin-top: 80px;
   margin-left: 20px;
 }
