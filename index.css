@@ -154,7 +154,7 @@ footer {
   margin-bottom: 20px;
   margin-top: 40px;
 }
-.email, .blog, .toDoFullSize, .socialMedia, .rainierFlyer {
+.email, .blog, .ToDoFullSize, .socialMedia, .rainierFlyer {
   font-size: 55px;
   font-family: signpainter;
   color: black;
@@ -173,7 +173,7 @@ footer {
   color: black !important;
   text-decoration: none !important;
 }
-.blogImg, .toDoFullSize img, .rainierConsulting img {
+.blogImg, .ToDoFullSize img, .rainierConsulting img {
   padding-top: 25px;
   border-right: 0;
   margin-left: 35px;
