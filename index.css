@@ -73,7 +73,7 @@ body {
   margin-left: 20px;
 }
 .circle {
-  width: 320px;
+  width: 292px;
   height: 292px;
   border-radius: 146px;
   background-color: #F9F9F9;
@@ -84,10 +84,11 @@ body {
   cursor: pointer;
   font-weight: bolder;
   font-size: 30px;
-  margin-bottom: 45px;
+  margin-bottom: 55px;
   position: relative;
   transition: font .5s ease;
   margin-left: 27px !important;
+  margin-top: 10px;
 }
 .circle:hover {
   font-size: 50px;
