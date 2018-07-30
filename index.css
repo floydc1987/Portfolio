@@ -75,7 +75,10 @@ body {
   color: black;
   margin-top: 140px;
   margin-left: 35px;
-  border-style: white double;
+  border-style: double;
+  border-color: white;
+  border-height: 320px;
+  border-width: 150px;
 }
 .circle {
   width: 320px;
