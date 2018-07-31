@@ -218,12 +218,11 @@ footer {
   margin-left: 45px;
   width: 400px;
 }
-.ToDoList img {
+.ToDoList img, .rainierConsulting img {
   margin-left: 45px;
 }
 .rainierConsulting img {
   padding-top: 25px;
-  margin-left: 45px;
 }
 .fa {
     padding: 20px;
