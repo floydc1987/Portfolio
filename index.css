@@ -38,7 +38,7 @@ body {
   color: white;
   padding-top: 30px;
   border-right: 0;
-  margin-left: 35px;
+  margin-left: 85px;
   position: relative;
 }
 .celina a {
@@ -55,7 +55,7 @@ body {
   color: white;
   padding-top: 41px;
   border-left: 0;
-  padding-left: 47px !important;
+  padding-left: 35px !important;
   font-weight: bold;
 }
 .container {
