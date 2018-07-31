@@ -233,7 +233,10 @@ footer {
     color: white;
     margin-left: 36px;
 }
-.portfolioHeader, .designPhilo {
+.portfolioHeader {
   margin-bottom: 30px;
+}
+.designPhilo {
+  margin-bottom: 100px:
 }
 
