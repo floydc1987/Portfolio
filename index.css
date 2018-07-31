@@ -221,7 +221,7 @@ footer {
 .ToDoList img, .rainierConsulting img {
   margin-left: 45px;
 }
-.rainierConsulting img {
+.rainierConsulting img, .ToDoList img, .lolCatClock img {
   padding-top: 25px;
 }
 .fa {
