@@ -178,12 +178,20 @@ footer {
   line-height: 42px;
   margin-top: 60px;	
 }
-.ToDoListApp, .lolCatClock {
+.ToDoListApp {
   font-size: 55px;
   font-family: signpainter;
   color: black;
   border-right: 0;
   margin-left: 35px;
+  line-height: 42px;
+  margin-top: 50px;
+}
+.lolCatClock {
+  font-size: 55px;
+  font-family: signpainter;
+  color: black;
+  border-right: 0;
   line-height: 42px;
   margin-top: 50px;
 }
