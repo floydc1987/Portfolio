@@ -36,7 +36,6 @@ body {
   font-size: 85px;
   font-family: signpainter;
   color: white;
-  padding-top: 30px;
   border-right: 0;
   margin-left: 85px;
   position: relative;
@@ -50,10 +49,10 @@ body {
   z-index: 1000;
 }
 .portfolio {
-  font-size: 60px;
+  font-size: 80px;
   font-family: "Big Caslon", sans-serif;
   color: white;
-  padding-top: 41px;
+  padding-top: 71px;
   border-left: 0;
   padding-left: 35px !important;
   font-weight: bold;
