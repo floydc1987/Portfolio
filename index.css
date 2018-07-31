@@ -204,7 +204,7 @@ footer {
   color: black !important;
   text-decoration: none !important;
 }
-.ToDoList img, .rainierConsulting img {
+.rainierConsulting img {
   border-right: 0;
   margin-bottom: 20px;
   margin-left: 45px;
@@ -212,7 +212,7 @@ footer {
   width: 400px;
   cursor: zoom-in;
 }  
-.lolCatClock img {
+.lolCatClock img, .ToDoList img {
   border-right: 0;
   margin-bottom: 20px;
   margin-left: 45px;
