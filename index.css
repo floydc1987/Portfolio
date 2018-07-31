@@ -199,6 +199,7 @@ footer {
 .ToDoList img, .rainierConsulting img {
   border-right: 0;
   margin-bottom: 20px;
+  margin-left: 45px;
   margin-top: 40px;
   width: 400px;
   cursor: zoom-in;
@@ -206,14 +207,15 @@ footer {
 .lolCatClock img {
   border-right: 0;
   margin-bottom: 20px;
+  margin-left: 45px;
   width: 400px;
 }
 .ToDoList img {
-  margin-left: 40px;
+  margin-left: 45px;
 }
 .rainierConsulting img {
   padding-top: 25px;
-  margin-left: 35px;
+  margin-left: 45px;
 }
 .fa {
     padding: 20px;
