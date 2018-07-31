@@ -246,7 +246,9 @@ footer {
 .designPhilo {
   padding-bottom: 50px;
 }
-
+.fixMargin {
+  margin-top: -15px;
+}
 
 
 
