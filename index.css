@@ -109,11 +109,9 @@ body {
   position: absolute;
   top: 0;
   bottom: 0;
-  width: 31%;
+  width: 29%;
   border-right: 1px solid white;
 }
-.LineMargin {
-  margin-right: 15px;
 }
 .ladies {
   font-size: 45px;
