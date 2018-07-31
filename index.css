@@ -102,7 +102,6 @@ body {
 }
 .circle:hover {
   font-size: 40px;
-
 }
 .line {
   position: absolute;
@@ -110,7 +109,6 @@ body {
   bottom: 0;
   width: 30%;
   border-right: 1px solid white;
-}
 }
 .ladies {
   font-size: 45px;
@@ -237,6 +235,6 @@ footer {
   margin-bottom: 30px;
 }
 .designPhilo {
-  margin-bottom: 100px:
+  margin-bottom: auto:
 }
 
