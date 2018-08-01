@@ -210,7 +210,7 @@ footer {
   width: 400px;
   cursor: zoom-in;
 }  
-.lolCatClock img, .ToDoList img {
+.lolCatClock img, .ToDoList img, magic8Ball img {
   border-right: 0;
   margin-bottom: 20px;
   margin-left: 45px;
