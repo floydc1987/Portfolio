@@ -167,7 +167,7 @@ footer {
   line-height: 42px;
   margin-top: 40px;
 }
-.lolCat, .rainierFlyer {
+.lolCat, .rainierFlyer, 8Ball {
   font-size: 55px;
   font-family: signpainter;
   color: black;
@@ -185,7 +185,7 @@ footer {
   line-height: 42px;
   margin-top: 40px;
 }
-.lolCatClock {
+.lolCatClock, .8Ball {
   font-size: 55px;
   font-family: signpainter;
   color: black;
