@@ -250,6 +250,11 @@ footer {
 .fixMargin {
   margin-top: -35px;
 }
-
-
+.IN-widget {
+  padding-top: 50px;
+  padding-left: 35px;
+}
+.hrContact {
+  margin-top: 30px;
+}
 
