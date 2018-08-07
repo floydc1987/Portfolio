@@ -187,20 +187,13 @@ footer {
   text-decoration: none !important;
 }
 .rainierConsulting img {
-  border-right: 0;
-  margin-left: 45px;
-  margin-top: 40px;
-  width: 400px;
   cursor: zoom-in;
-  margin-bottom: 20px;
 }  
-.lolCatClock img, .ToDoList img, .magic8Ball img {
+.lolCatClock img, .ToDoList img, .magic8Ball img, .rainierConsulting img {
   border-right: 0;
   margin-bottom: 20px;
   margin-left: 45px;
   width: 400px;
-}
-.rainierConsulting img, .ToDoList img, .lolCatClock img, .magic8Ball img {
   padding-top: 55px;
 }
 .fa {
