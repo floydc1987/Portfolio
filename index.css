@@ -169,7 +169,7 @@ footer {
   line-height: 42px;
   margin-top: 40px;
 }
-.lolCat, .rainierFlyer, .magic8Ballz {
+.rainierFlyer {
   font-size: 55px;
   font-family: signpainter;
   color: black;
@@ -183,19 +183,14 @@ footer {
   color: black;
   border-right: 0;
   margin-left: 35px;
-  line-height: 42px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .lolCatClock, .magic8Ballz {
   font-size: 55px;
   font-family: signpainter;
   color: black;
   border-right: 0;
-  line-height: 42px;
   margin-top: 35px;
-}
-.magic8Ballz, .magic8Ball {
-  padding-top: 32px;
 }
 .circle a {
   display: block;
@@ -219,9 +214,6 @@ footer {
   margin-bottom: 20px;
   margin-left: 45px;
   width: 400px;
-}
-.ToDoList img, .rainierConsulting img {
-  margin-left: 45px;
 }
 .rainierConsulting img, .ToDoList img, .lolCatClock img, .magic8Ball img {
   padding-top: 25px;
