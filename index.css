@@ -27,6 +27,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   width: 100%;
+  padding: 0 10px;
 }
 .header {
   text-shadow: #6d51b1 1px 1px 3px;
