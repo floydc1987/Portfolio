@@ -234,5 +234,6 @@ footer {
   }
   .lolCat, .magic8Ballz, .ToDoListApp, .rainierFlyer {
     margin-left: 20px;
+    padding-top: 10px;
   }
 }
