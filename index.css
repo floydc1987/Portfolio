@@ -247,5 +247,7 @@ footer {
     vertical-align: middle;
     margin: 0 3%;
     white-space: normal;
+    width: 65%;
+    margin: 0 auto;
 }
 
