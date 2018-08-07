@@ -236,10 +236,11 @@ footer {
     margin-left: 20px;
     padding-top: 10px;
   }
-.div1, .div2, .box1, .hr1, .hr1, hr3, .line {
+.div1, .div2, .box1, .hr1, .hr2, .hr3, .line {
     display: none;	  
 }
 .aboutMe, .me {
-    margin-left: 0;
+    margin-left: 0px;
+    paddiing-top: 0px;
 }
 }
