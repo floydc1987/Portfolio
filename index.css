@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  width: 100%;
 }
 .header {
   height: 134px;
@@ -174,7 +175,6 @@ footer {
   color: black;
   border-right: 0;
   margin-left: 35px;
-  line-height: 42px;
   margin-top: 70px;	
 }
 .ToDoListApp {
