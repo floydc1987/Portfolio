@@ -191,6 +191,7 @@ footer {
   color: black;
   border-right: 0;
   margin-top: 35px;
+  margin-left: 35px;
 }
 .circle a {
   display: block;
