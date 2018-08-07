@@ -236,4 +236,16 @@ footer {
     margin-left: 20px;
     padding-top: 10px;
   }
+#div-wrapper {
+    white-space: nowrap;
+    max-width: 99%;
 }
+.single-div {
+    width: 27%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 3%;
+    white-space: normal;
+}
+
