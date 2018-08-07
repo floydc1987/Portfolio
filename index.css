@@ -37,7 +37,7 @@ body {
   font-family: signpainter;
   color: white;
   border-right: 0;
-  margin-left: 45px;
+  margin-left: 35px;
   position: relative;
 }
 .celina a {
@@ -225,3 +225,14 @@ footer {
   margin-top: 40px;
 }
 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .celina {
+    margin-left: 20px;
+  }
+  .lolCat, .magic8Ballz, .ToDoListApp, .rainierFlyer {
+    margin-left: 20px;
+  }
+}
