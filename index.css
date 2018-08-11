@@ -236,18 +236,27 @@ footer {
     margin-left: 20px;
     padding-top: 10px;
   }
-.div1, .div2, .box1, .hr1, .hr2, .hr3, .line {
-    display: none;	  
-}
-.aboutMe, .me {
-    margin-left: 0px;
-    paddiing-top: 0px;
-}
-.box2, .box3 {
-    width: 100%;
-    height: auto;
-}
-.background-image {	  
-background-size: contain;
-}
+  .div1, .div2, .box1, .hr1, .hr2, .hr3, .line {
+      display: none;	  
+  }
+  .aboutMe, .me {
+      margin-left: 0px;
+      paddiing-top: 0px;
+  }
+  .box2, .box3 {
+      width: 100%;
+      height: auto;
+  html, body {
+    height: 100%;
+  }
+  body {	  
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .circle {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+  }
 }
