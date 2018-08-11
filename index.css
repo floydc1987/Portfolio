@@ -236,7 +236,7 @@ footer {
     margin-left: 20px;
     padding-top: 10px;
   }
-  .div1, .div2, .box1, .hr1, .hr2, .hr3, .line {
+  .div1, .div2, .box1, .hr1, .hr2, .hr3, .line, .hrContact {
       display: none;	  
   }
   .aboutMe, .me {
@@ -259,5 +259,10 @@ footer {
     width: 100px;
     height: 100px;
     line-height: 100px;
+  }
+  .container {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    margin-bottom: 15px;
   }
 }
