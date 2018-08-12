@@ -241,7 +241,7 @@ footer {
       display: none;	  
   }
   .aboutMe, .me{
-      text-align: center !important;
+      text-align: center;
       padding-top: 0px;
   }
   .aboutMe {
