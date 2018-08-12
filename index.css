@@ -285,4 +285,7 @@ footer {
   .portfolio {
     padding-left: 0px;
   }
+  .portfolio-link {
+    margin-top: 30px
+  }
 }
