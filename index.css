@@ -275,4 +275,7 @@ footer {
   .email {
     margin-left: 25px;
   }
+  .portfolio {
+    padding-left: 0px;
+  }
 }
