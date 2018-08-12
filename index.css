@@ -61,7 +61,7 @@ body {
   padding: 35px 0 0;
   background: rgba(255,255,255,0.45);
   margin-top: 35px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   position: relative;
   flex: 1;	
   border-radius: 14px;
@@ -132,7 +132,7 @@ body {
   padding-top: 30px;
   border-right: 0;
   margin-left: 35px;
-  line-height: 45px;
+  line-height: 65px;
 }
 .me {
   font-size: 20px;
