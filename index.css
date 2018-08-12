@@ -242,6 +242,7 @@ footer {
   }
   .aboutMe, .me{
       text-align: center !important;
+      padding-top: 5px;
   }
   .aboutMe {
     overflow: hidden;
