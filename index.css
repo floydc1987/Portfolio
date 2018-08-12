@@ -287,8 +287,8 @@ footer {
   .email {
     margin-left: 25px;
   }
-  .portfolio {
-    padding-left: 0px;
+  .portfolio, .celina, .header {
+    padding: 0px;
   }
   .portfolio-link, .contactMe {
     margin-top: 30px
