@@ -269,8 +269,8 @@ footer {
     margin-left: 60px;
   }
   .container {
-    margin-right: 0px !important;
-    margin-left: 0px !important;
+    margin-right: 0px;
+    margin-left: 0px;
     margin-bottom: 15px;
   }
   .IN-widget {
