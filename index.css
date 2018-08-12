@@ -240,9 +240,13 @@ footer {
   .div1, .div2, .box1, .hr1, .hr2, .hr3, .line, .hrContact, .socialMedia {
       display: none;	  
   }
-  .aboutMe, .me {
+  .aboutMe, .me{
       margin-left: 0px;
-      paddiing-top: 0px;
+      text-align: center !important;
+  }
+  .me {
+    overflow: hidden;
+    white-space: nowrap;
   }
   .box2, .box3 {
       width: 100%;
