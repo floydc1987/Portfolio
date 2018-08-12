@@ -153,7 +153,7 @@ footer {
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;;
   color: black;
-  padding-top: 30px;
+  padding-top: 20px;
   border-right: 0;
   margin-left: 35px;
   margin-bottom: 20px;
@@ -269,4 +269,6 @@ footer {
   .IN-widget {
     padding-left: 0px;
   }
+  .emailMe {
+  padding-top: 35px;
 }
