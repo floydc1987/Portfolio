@@ -60,6 +60,7 @@ body {
   padding: 35px 0 0;
   background: rgba(255,255,255,0.45);
   margin-top: 35px;
+  margin-bottom: 20px;
   position: relative;
   flex: 1;	
   border-radius: 14px;
