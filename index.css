@@ -258,7 +258,7 @@ footer {
     height: 100%;
   }
   body {	  
-    background-size: cover;
+    background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
   }
