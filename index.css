@@ -271,4 +271,8 @@ footer {
   }
   .emailMe {
   padding-top: 35px;
+  }
+  .email {
+    margin-left: 25px;
+  }
 }
