@@ -172,6 +172,10 @@ footer {
   line-height: 42px;
   margin-top: 40px;
 }
+.iframeLol, .stretch {
+  height: auto;
+  max-width: 100%;
+}
 .lolCat, .magic8Ballz, .ToDoListApp, .rainierFlyer {
   font-size: 55px;
   font-family: signpainter;
