@@ -303,4 +303,7 @@ footer {
   .portfolio-link, .contactMe {
     margin-top: 30px
   }
+  .socialMedia {
+    margin-left: 25px;
+  }
 }
