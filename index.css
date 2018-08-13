@@ -244,7 +244,7 @@ footer {
     margin-left: 20px;
     padding-top: 10px;
   }
-  .div1, .div2, .box1, .hr1, .hr2, .hr3, .line, .hrContact, .socialMedia {
+  .div1, .div2, .box1, .hr1, .hr2, .hr3, .line, .hrContact {
       display: none;	  
   }
   .aboutMe, .me{
@@ -291,6 +291,7 @@ footer {
   }
   .emailMe {
   padding-top: 35px;
+  margin-left: 0px;
   }
   .email {
     margin-left: 25px;
