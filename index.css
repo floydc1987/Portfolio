@@ -254,12 +254,12 @@ footer {
       padding: 0px;
   }
   .me {
-    font-size: 45px;
+    font-size: 15px;
   }
   .aboutMe {
     overflow: hidden;
     white-space: nowrap;
-    font-size: 18px;
+    font-size: 25px;
   }
   .box2, .box3 {
       width: 100%;
