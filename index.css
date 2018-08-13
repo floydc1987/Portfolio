@@ -232,6 +232,10 @@ footer {
 .hrContact {
   margin-top: 40px;
 }
+.sMlinks {
+  padding-top: 50px
+  margin-left: 35px;
+}
 
 @media only screen 
   and (min-device-width: 320px) 
