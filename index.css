@@ -296,6 +296,9 @@ footer {
   .email {
     margin-left: 25px;
   }
+  .email, .emailMe {
+    margin-bottom: 20px;
+  }
   .portfolio {
     padding: 0px;
     margin: 0px;
@@ -305,5 +308,8 @@ footer {
   }
   .socialMedia {
     margin-left: 25px;
+    margin-top: 0px;
+    padding-top: 0px;
+    line-height: 0px;
   }
 }
